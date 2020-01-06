@@ -1,1 +1,1 @@
-# Data-Mining
+# Hyper-Clique-Pattern-Mining 
